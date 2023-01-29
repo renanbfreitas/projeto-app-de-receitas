@@ -34,6 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
 ### <b> <a href="https://github.com/AnthonyDSValerio">Anthony Valerio</a> </b> <br>
 ### <b> <a href="https://github.com/matheuscoelhomalta">Matheus Coelho</a> </b> <br>
+### <b> <a href="https://github.com/renanbfreitas">Renan Freitas</a> </b> <br>
 ### <b> <a href="https://github.com/Tarseason">Tarcisio Ribeiro</a> </b> <br>
 ### <b> <a href="https://github.com/vicsantus">Victor Santos</a> </b> <br>
 
