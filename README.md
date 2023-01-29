@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
 <img src="https://img.shields.io/static/v1?label=Link&message=App de Receitas&color=green&style=for-the-badge&logo=github"/>
 
-### <b> <a href="https://projeto-jogo-de-trivia.vercel.app/">App de Receitas</a> </b> <br>
+### <b> <a href="https://projeto-app-de-receitas-three.vercel.app/">App de Receitas</a> </b> <br>
 
 ---   
 
